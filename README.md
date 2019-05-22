@@ -1,6 +1,6 @@
 # Tab 4 Light Project/Rom
 
-# Todo:
+## Todo:
 **------------------------------**
 * Fix slowness on shared kernel.
 * Get microphone on skype.
