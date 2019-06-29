@@ -8,7 +8,7 @@ This device tree used the Kernel & Board repos from straight https://github.com/
 * https://github.com/matissewifi/android_kernel_samsung_matisse
 * https://github.com/matissewifi/android_device_samsung_msm8226-common
 ## Todo:
-* Get microphone on skype.
+* Get microphone working on skype.
 * Fix minor bugs in LineageOS 14.1.
 * Upgrede to Oreo then Pie after fixing every that needs fixing in LineageOS 14.1.
 ____
