@@ -7,10 +7,24 @@ This device tree used the Kernel & Board repos from straight https://github.com/
 ### Kernel or Board Repos
 * https://github.com/matissewifi/android_kernel_samsung_matisse
 * https://github.com/matissewifi/android_device_samsung_msm8226-common
+
 ## Todo:
 * Get microphone working on skype.
+* Get LTE working on milletlte.
+* Get 3G working on millet3g.
+* Get IRBlaster working on all Tab 4 8.0.
+* Fix securty setting not opening in Settings.apk all Samsung Galaxy Tab 4 8.0.
+* Fix Front facing camera on all Tab 4 8.0.
+* Fix more setting not opening in Settings.apk on all Samsung Galaxy Tab 4 8.0.
+* Fix installtion screen on all Samsung Galaxy Tab 4 8.0.
+* Fix BT_A2DP.
+* Fix setup screen on milletlte & millet3g.
 * Fix minor bugs in LineageOS 14.1.
 * Upgrede to Oreo then Pie after fixing every that needs fixing in LineageOS 14.1.
+
+## Note:
+All devices are built useing https://github.com/LightningFastRom by @DJABHipHop on xda.
+LightningFastRom is based on LineageOS minus the crap & none of the ugly / unnessary feature like audio visualizer, music playback control with volume keys, etc.. P.S if anyones want to join and help add new & useful feature, improve & optimize the rom for legacy devices feel free to ask on XDA.
 ____
 |Code Name|Model Number|ScreenSize|Colors|
 |--|--|--|--|
