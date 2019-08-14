@@ -10,13 +10,11 @@ This device tree used the Kernel & Board repos from straight https://github.com/
 
 ## Todo:
 * Get microphone working on skype.
-* Get LTE working on milletlte.
-* Get 3G working on millet3g.
+* Get LTE working on milletlte (All those the system detect the sim cad mobile date still doesn't work all).
+* Get 3G working on millet3g (All those the system detect the sim cad mobile date still doesn't work all).
 * Get IRBlaster working on all Tab 4 8.0.
-* Fix securty setting not opening in Settings.apk all Samsung Galaxy Tab 4 8.0.
 * Fix Front facing camera on all Tab 4 8.0.
 * Fix more setting not opening in Settings.apk on all Samsung Galaxy Tab 4 8.0.
-* Fix installtion screen on all Samsung Galaxy Tab 4 8.0.
 * Fix BT_A2DP.
 * Fix rear cam sensor output(Currently upside down)
 * Fix front facing camera(Crurrently broken)
