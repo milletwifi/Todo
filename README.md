@@ -17,7 +17,6 @@ This device tree used the Kernel & Board repos from straight https://github.com/
 * Fix more setting not opening in Settings.apk on all Samsung Galaxy Tab 4 8.0.
 * Fix BT_A2DP.
 * Fix rear cam sensor output(Currently upside down)
-* Fix front facing camera(Crurrently broken)
 * Fix setup screen on milletlte & millet3g.
 * Fix minor bugs in LineageOS 14.1.
 * Upgrede to Oreo then Pie after fixing every that needs fixing in LineageOS 14.1.
